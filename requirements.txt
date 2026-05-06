@@ -1,1 +1,1 @@
-pandas
+requirements = python3,kivy,pandas
